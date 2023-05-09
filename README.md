@@ -4,7 +4,7 @@ As a versatile computer science graduate, I bring a wealth of skills and experti
 
 Skills: Flutter / Java / Python / Spring Boot
 
-- 🔭 I’m currently working on https://github.com/samiul-huda1137/Noor-Optical-mobile-app.git 
+- 🔭 I’m currently working on [https://github.com/samiul-huda1137/Mood-Recognition-with-CNN](https://github.com/samiul-huda1137/Mood-Recognition-with-CNN.git)
 - 🌱 I’m currently learning Spring Boot 
 - 👯 I’m looking to collaborate on Flutter Projects 
 
