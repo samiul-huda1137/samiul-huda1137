@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Samiul
-#### Passionate and Versatile Computer Science Graduate Constantly Exploring New Technologies.
+#### Passionate and Versatile Computer Science Graduate working for Brac IT Services.
 As a versatile computer science graduate, I bring a wealth of skills and expertise to the table. With a solid foundation in Java and Python, as well as a knack for developing cutting-edge mobile applications with Flutter, I'm constantly pushing the boundaries of what's possible in the digital world. And as I delve into the world of Spring Boot, I'm honing my ability to create dynamic and scalable web applications that meet the needs of businesses and consumers alike.
 
 Skills: Flutter / Java / Python / Spring Boot
